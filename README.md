@@ -1,4 +1,4 @@
-# Ram-Monitoring-Bot
+# Ram Monitoring Bot
 
 This Python script monitors the RAM usage of a NextCloud server and sends alerts via Telegram when memory usage is below a specified threshold. It also sends periodic status updates every 12 hours.
 
