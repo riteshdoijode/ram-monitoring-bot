@@ -9,9 +9,9 @@ This Python script monitors the RAM usage of a NextCloud server and sends alerts
 
 ## Requirements
 Ensure you have the following installed
-Python 3.x
-pustil (pip install psutil)
-requests (pip install requests)
+```Python 3.x ```
+``` pustil (pip install psutil) ```
+``` requests (pip install requests) ```
 
 ## Configuration
 
